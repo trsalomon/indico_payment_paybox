@@ -3,7 +3,7 @@ Indico Paybox Plugin
 
 |build-status| |license|
 
-This repository contains an atempt to develop a plugin to Paybox payment provider for `Indico`_.
+This repository contains an attempt to develop a plugin to Paybox payment provider for `Indico`_.
 
 This plugin is licensed under the MIT license as its parent project.
 
